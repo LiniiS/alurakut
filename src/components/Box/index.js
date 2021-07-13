@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+
 const Box = styled.div `
     background: #ffffff;
     border-radius: 8px;
@@ -34,37 +35,37 @@ const Box = styled.div `
     }
 
 
-hr {
-    border-color: transparent;
-    border-bottom-color: #ecf2fa;
-    margin-top: 12px;
-    margin-bottom: 8pc;
-}
-
-
-input {
-    background-color: #f4f4f4;
-    border-radius: 10000px;
-    border: 0;
-    color: #333333;
-    margin-bottom: 14px;
-    padding: 14px 16px;
-    width: 100%;
-    ::placeholder{
-        color: #333333;
-        opacity: 1;
+    hr {
+        border-color: transparent;
+        border-bottom-color: #ecf2fa;
+        margin-top: 12px;
+        margin-bottom: 8pc;
     }
-}
 
 
-button {
-    border: 0;
-    padding: 8px 12px;
-    color: #ffffff;
-    border-radius: 10000px;
-    background-color: #6f92bb;
+    input {
+        background-color: #f4f4f4;
+        border-radius: 10000px;
+        border: 0;
+        color: #333333;
+        margin-bottom: 14px;
+        padding: 14px 16px;
+        width: 100%;
+        ::placeholder{
+            color: #333333;
+            opacity: 1;
+        }
+    }
 
-}
+
+    button {
+        border: 0;
+        padding: 8px 12px;
+        color: #ffffff;
+        border-radius: 10000px;
+        background-color: #6f92bb;
+
+    }
 `;
 
 export default Box;

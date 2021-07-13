@@ -1,15 +1,15 @@
-import styled from 'styled-components'
-import MainGrid from '../src/components/MainGrid'
-import Box from '../src/components/Box'
-import { AlurakutMenu, OrkutNostalgicIconSet } from '../src/lib/AlurakutCommons'
-import { ProfileRelationsBoxWrapper } from '../src/components/ProfileRelations'
+import React from 'react';
+import styled from 'styled-components';
+import MainGrid from '../src/components/MainGrid';
+import Box from '../src/components/Box';
+import { AlurakutMenu, OrkutNostalgicIconSet } from '../src/lib/AlurakutCommons';
+import { ProfileRelationsBoxWrapper } from '../src/components/ProfileRelations';
 
 function ProfileSidebar(propriedades) {
   return (
     <Box>
       <img src={`https://github.com/${propriedades.githubUser}.png`} style={{borderRadius: '8px'}}/>
-    </Box>
-  
+    </Box> 
   )
 }
 
