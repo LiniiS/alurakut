@@ -13,17 +13,17 @@ Projeto desenvolvido durante a [Imersão React](https://www.alura.com.br/imersao
 
 - Aula 2:
 	* [x] React, State e o primeiro Formulário
-	* [] Desafios 
+	* [ ] Desafios 
 		* Customizar a Alurakut (usar temática)
 		* Adicionar links externos para as comunidades
 		* Ajustar a imagem do User e @user no Menu
 		
 - Aula 3:
-	* [] disponível somente 14/07
+	* [ ] disponível somente 14/07
   
 - Aula 4:
-	* [] disponível somente 15/07
+	* [ ] disponível somente 15/07
   
 - Aula 5:
-	* [] disponível somente 16/07
+	* [ ] disponível somente 16/07
   
