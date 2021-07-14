@@ -39,7 +39,7 @@ const Box = styled.div `
         border-color: transparent;
         border-bottom-color: #ecf2fa;
         margin-top: 12px;
-        margin-bottom: 8pc;
+        margin-bottom: 8px;
     }
 
 
