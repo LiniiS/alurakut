@@ -10,7 +10,12 @@ const GlobalStyle = createGlobalStyle`
 }
 
   body {
+    //background-color: #D9E6f6;
     background-color: #D9E6f6;
+    background-image: linear-gradient(0deg, #308BC5 15%, #D9E6f6  45%);
+
+
+
     font-family: sans-serif;
   }
   #__next {

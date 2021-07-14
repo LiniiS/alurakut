@@ -59,11 +59,11 @@ const Box = styled.div `
 
 
     button {
-        border: 0;
-        padding: 8px 12px;
-        color: #ffffff;
-        border-radius: 10000px;
         background-color: #6f92bb;
+        border: 0;
+        border-radius: 10000px;
+        color: #ffffff;
+        padding: 8px 12px;
 
     }
 `;
