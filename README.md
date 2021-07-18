@@ -38,8 +38,17 @@ Projeto desenvolvido durante a [Imersão React](https://www.alura.com.br/imersao
 		* [x] Subir sua aplicação na Vercel
   
 - Aula 4:
-	* [ ] disponível somente 15/07
+	* [x] Requisições com GraphQL, BFF e AJAX!
+	* [ ] Desafios
+		* [ ] Configurar suas variáveis de ambiente;
+		* [ ] Fazer os scraps;
+		* [x] Subir aplicação na Vercel
   
 - Aula 5:
-	* [ ] disponível somente 16/07
+	* [x] Sistema de Login: o desafio final
+	* [ ] Desafios
+		* [ ] Fazer o logout da aplicação
+		* [ ] Mensagem de feedback quando não conseguir logar na aplicação
+		* [ ] Crar página de perfil do usuário
+		* [x] Subir a aplicação na Vercel 
   
